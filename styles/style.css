@@ -1,9 +1,9 @@
 /* место для вашего кода */
 /* Header */
 
-.header { 
+.header {
   font-size: 18px;
-  font-weight: 400px;
+  font-weight: 400;
   padding: 92px 50px 96px;
   display: grid;
   grid-template-columns: 1fr min-content 1fr;
